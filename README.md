@@ -35,7 +35,7 @@ A comprehensive feedback collection platform built with Next.js and TailwindCSS 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ashutosh31123/feedback_collection_platform.git
 cd feedback_collection_nextjs
 ```
 
